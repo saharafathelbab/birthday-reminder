@@ -18,7 +18,7 @@ Original Birthday reminder project live: [https://react-projects-1-birthday-remi
 
 ### Getting Started on Local Environment
 
-In the project directory, you can run:
+In the project directory, please run:
 
 ### npm install node_modules
 
