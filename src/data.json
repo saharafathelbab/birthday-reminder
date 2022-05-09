@@ -1,0 +1,34 @@
+{
+  "people": [
+    {
+      "name": "Captain America",
+      "age": 38,
+      "image": "https://images.hindustantimes.com/img/2021/01/15/1600x900/Chris-Evans_1610686588905_1610686593226.jpg",
+      "id": 1
+    },
+    {
+      "name": "Iron Man",
+      "age": 45,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5ODY5NTUzMF5BMl5BanBnXkFtZTcwOTAzNTIzMw@@._V1_.jpg",
+      "id": 2
+    },
+    {
+      "name": "Thor",
+      "age": 38,
+      "image": "https://cdn.britannica.com/73/182873-050-E1C686F4/Chris-Hemsworth-Thor-Thor-The-Dark-World.jpg",
+      "id": 3
+    },
+    {
+      "name": "Loki",
+      "age": 41,
+      "image": "https://crops.giga.de/b5/70/53/b8b160a2eee74a72497510b40b_YyAxODA1eDEwMTUrNTgrMzICcmUgNTAwIDI4MANiMGIxYWU0MjcwMA==.jpg",
+      "id": 4
+    },
+    {
+      "name": "Captain Marvel",
+      "age": 32,
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F09%2Fopw-15891_r-2000.jpg&q=60",
+      "id": 5
+    }
+  ]
+}
