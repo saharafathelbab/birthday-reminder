@@ -7,7 +7,7 @@ Original Birthday reminder project:
 
 Youtube: [https://youtu.be/a_7Z7C_JCyo](https://youtu.be/a_7Z7C_JCyo)
 
-Actual Project live: [https://react-projects-1-birthday-reminder.netlify.app/](https://react-projects-1-birthday-reminder.netlify.app/)
+Original Birthday reminder project live: [https://react-projects-1-birthday-reminder.netlify.app/](https://react-projects-1-birthday-reminder.netlify.app/)
 
 ### What were my modifications?
 
