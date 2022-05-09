@@ -20,6 +20,8 @@ Actual Project live: [https://react-projects-1-birthday-reminder.netlify.app/](h
 
 In the project directory, you can run:
 
+### npm install node_modules
+
 ### npm start
 
 This runs the app in the development mode - 
