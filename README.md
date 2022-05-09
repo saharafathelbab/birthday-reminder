@@ -1,4 +1,4 @@
-![marvel birthdays](images/marvel-birthdays.png)
+![marvel birthdays](marvel-birthdays.png)
 
 
 ## Birthday Reminder
